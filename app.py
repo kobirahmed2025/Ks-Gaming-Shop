@@ -12,7 +12,7 @@ CORS(app)
 
 # আপনার জিমেইল এবং অ্যাপ পাসওয়ার্ড (নিরাপত্তার জন্য Environment Variable-ও ব্যবহার করতে পারেন)
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "income2007.20@gmail.com")
-SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "YOUR_APP_PASSWORD_HERE")
+SENDER_PASSWORD = os.environ.get("SENDER_PASSWORD", "izou sxyc kgot dcfz")
 
 registration_store = {}
 
